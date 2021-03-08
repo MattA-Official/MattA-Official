@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Matthew</h1>
 <h3 align="center">A web developer and game modder from the United Kingdom!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matta-official&label=Profile%20views&color=0e75b6&style=flat" alt="matta-official" /> </p>
-
 - 🔭 I’m currently working on [Software Inc. Multiplayer](https://sincmultiplayer.net/)
 
 - 🌱 I’m currently learning **Flutter**
