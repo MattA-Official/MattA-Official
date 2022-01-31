@@ -13,6 +13,7 @@ Fullstack web and Discord bot developer from the UK!
 - Rust
 - C#
 - Python
+- Go
 
 ## ⚙ Projects
 
