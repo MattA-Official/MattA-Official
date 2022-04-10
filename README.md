@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Matthew</h1>
+<h1 align="center">Hi there 👋, I'm Matt</h1>
 
 Fullstack web and Discord bot developer from the UK! 
 
@@ -17,12 +17,8 @@ Fullstack web and Discord bot developer from the UK!
 
 ## ⚙ Projects
 
-- [dmod.gg](https://dmod.gg/) | Revolutionizing Discord moderation
-- [Monad](https://github.com/MonadDev) | A new social way to share snippets
-- The modular bot system (more info soon)
+- [appeals.fyi](https://appeals.fyi/) | The new way to manage Discord server infraction appeals
 
 ## 📈 Stats
 
-![GitHub metrics](https://metrics.lecoq.io/matta-official)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matta-official&show_icons=true&locale=en)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=matta-official)
